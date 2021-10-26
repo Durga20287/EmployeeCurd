@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "firstName": "shiva",
+      "lastName": "yannam",
+      "emailId": "shiva@gmail.com",
+      "id": 2
+    },
+    {
+      "firstName": "Durga",
+      "lastName": "Mule",
+      "emailId": "durga@ojas.com",
+      "id": 3
+    },
+    {
+      "firstName": "Vamshi",
+      "lastName": "Soma",
+      "emailId": "Vamshi@ojas.com",
+      "id": 4
+    },
+    {
+      "firstName": "Madhu",
+      "lastName": "Avudharapu",
+      "emailId": "Madhu@ojas-it.com",
+      "id": 5
+    }
+  ]
+}
